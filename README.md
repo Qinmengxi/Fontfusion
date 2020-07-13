@@ -1,4 +1,4 @@
-# FontfusionNet
+# Fontfusion
 Simple Tensorflow implementation of Fontfusion. More details can be referred in our paper: Learn to Design a New Font by Fusing Different Calligraphy, which is under review.
 
 ## 1.Requirements
