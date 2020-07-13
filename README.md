@@ -38,7 +38,7 @@ python main.py --phase train --dataset pose --epoch 5 <br>
 python main.py --phase test --dataset pose --epoch 1 <br>
 
 ## 6.Result
-![Image text](https://github.com/Qinmengxi/Fontfusion/blob/master/figure/result.png)
+![result](https://github.com/Qinmengxi/Fontfusion/blob/master/figure/result.png)
 
 ## 7.Reference
 Joo D, Kim D, Kim J. Generating a fusion image: One’s identity and another’s shape. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, Salt Lake City, USA, pp.1635-1643, 2018. DOI:10.1109/CVPR.2018.00176. <br>
