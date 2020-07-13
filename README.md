@@ -9,6 +9,7 @@ Simple Tensorflow implementation of Fontfusion. More details can be referred in 
 * cudnn <br>
 
 ## 2.Create datasets:
+You can create different datasets for font fusion by replacing font in datasets.py.
 * python datasets.py <br>
 
 ## 3.Usage:
@@ -32,6 +33,7 @@ Simple Tensorflow implementation of Fontfusion. More details can be referred in 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── ... <br>
            
 ## 4.Train
+
 * python main.py --phase train --dataset pose --epoch 5 <br>
 
 ## 5.Test
