@@ -10,20 +10,20 @@ pygame <br>
 ├── dataset <br>
 &emsp;&emsp;└── YOUR_DATASET_NAME <br>
 &emsp;&emsp;&emsp;&emsp;├── trainA <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── xxx.jpg (name, format doesn't matter) <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── yyy.png <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 1.jpg (name, format doesn't matter) <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 2.png <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── ... <br>
 &emsp;&emsp;&emsp;&emsp;├── trainB <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── zzz.jpg <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── www.png <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 1.jpg <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 2.png <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── ... <br>
 &emsp;&emsp;&emsp;&emsp;├── testA <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── aaa.jpg <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── bbb.png <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 1.jpg <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 2.png <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── ... <br>
 &emsp;&emsp;&emsp;&emsp;└── testB <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── ccc.jpg <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── ddd.png <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 1.jpg <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 2.png <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── ... <br>
            
 ## 3. Train
