@@ -6,7 +6,10 @@ Tensorflow 1.8 <br>
 Python 3.6 <br>
 pygame <br>
 
-## 2. Usage:
+## 2. Create datasets:
+python datasets.py
+
+## 3. Usage:
 ├── dataset <br>
 &emsp;&emsp;└── YOUR_DATASET_NAME <br>
 &emsp;&emsp;&emsp;&emsp;├── trainA <br>
@@ -26,8 +29,8 @@ pygame <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├── 2.png <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└── ... <br>
            
-## 3. Train
+## 4. Train
 python main.py --phase train --dataset pose --epoch 5 <br>
 
-## 4. Test
+## 5. Test
 python main.py --phase test --dataset pose --epoch 1 <br>
