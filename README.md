@@ -9,7 +9,7 @@ Simple Tensorflow implementation of Fontfusion. More details can be referred in 
 * cudnn <br>
 
 ## 2.Create datasets:
-python datasets.py <br>
+* python datasets.py <br>
 
 ## 3.Usage:
 ├── dataset <br>
