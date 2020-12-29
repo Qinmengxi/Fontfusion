@@ -13,7 +13,7 @@ You can create different datasets for font fusion by replacing font in datasets.
 * python datasets.py <br>
 
 ## 3.Proposed network:
-![proposed network](https://github.com/Qinmengxi/Fontfusion/tree/master/figure/network.png)
+![proposed network](https://github.com/Qinmengxi/Fontfusion/blob/master/figure/netwowk.png)
 
 ## 4.Usage:
 ├── dataset <br>
