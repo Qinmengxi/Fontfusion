@@ -1,6 +1,5 @@
 # Fontfusion
-Simple Tensorflow implementation of Fontfusion. More details can be referred in our paper: Disentangled representation learning GANs for generalized and stable font fusion
-network, which is under review.
+Simple Tensorflow implementation of Fontfusion. More details can be referred in our paper which is under review.
 
 ## 1.Requirements
 * Tensorflow 1.8 <br>
